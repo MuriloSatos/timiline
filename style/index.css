@@ -48,3 +48,19 @@ section {
 section h2 {
     margin-top: 0;
 }
+
+/* Presentation section */
+
+#presentation {
+    background: #e9f2fb;
+}
+
+#presentation h3 {
+    margin-top: 20px;
+    color: #005fa3;
+}
+
+#presentation p {
+    font-size: 15px;
+    line-height: 1.6;
+}
